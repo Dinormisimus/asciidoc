@@ -7,7 +7,7 @@ Dino Grgić, Sveučilište u Zadru <dinowow123@gmail.com>
 :icons: font
 :source-highlighter: highlight.js
 :sectnums:
-:imagesdir: IMG/
+:imagesdir: img/
 :stem:
 
 
